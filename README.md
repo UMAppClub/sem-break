@@ -4,8 +4,8 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
 
 ## Artificial Intelligence 
 
-#### Music generation using AI
-https://www.youtube.com/playlist?list=PL2-dafEMk2A5-sn0Sgkw-4q-Lw0jiuQtu
+
+
 
 ## Web development
 
