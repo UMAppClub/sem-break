@@ -19,7 +19,7 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
 >Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
 
 
-### Learn Command Line
+### Learn `Command Line`
 >🎁 Level: Beginner
 
 >📁 Pre-requisite: *None*
@@ -53,7 +53,7 @@ You can learn git using any of these resources.
 
 ## Project: Build and launch your personal for free
 
-### Build a one-page website using HTML/CSS
+### Build a one-page website using `HTML/CSS`
 >🎁 Level: Beginner
 
 >📁 Pre-requisite: *Git*
