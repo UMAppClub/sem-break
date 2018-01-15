@@ -2,6 +2,8 @@
 
 > ##### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
 
+> This is **NOT** a machine-specific tutorial. You can be using Windows, Mac or Linux. 
+
 List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
 
 **Table of Contents**  
