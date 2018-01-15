@@ -1,24 +1,15 @@
 # Self-paced no-judgment learning for a productive semester break :D
 
->##### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
+>####### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
 
 List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
 
 
-**Table of Contents** 
-
-
-- [Learn Command Line](#learn-command-line)
-- [Learn Git](#learn-git)
-- [Build your one-page personal website](#build-your-one-page-personal-website)
-- [Deploy your website to Netlify](#)
-- [Get a free domain and more with GitHub Education Pack](#Get-a-free-domain-and-more-with-gitHub-education-pack)
-- [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
-
 
 >Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
 
-## Learn Command Line
+
+### Learn Command Line
 >🎁 Level: Beginner
 
 >📁 Pre-requisite: *None*
@@ -28,7 +19,7 @@ As a computer science/IT student, knowing how to use `CLI (command line interfac
 Here's my favorite tutorial for command line (the one I used to learn, in my first year) to get you started, feel free to use t as a cheatsheet for a while if you need:
 >[Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 
-## Learn `Git` 
+### Learn `Git` 
 >🎁 Level: Beginner
 
 >📁 Pre-requisite: *None*
@@ -39,7 +30,7 @@ Here's my favorite tutorial for command line (the one I used to learn, in my fir
 
 **What you'll learn:** concept of git, and using git in CLI (command line interface)
 
-### Resources:
+##### Resources:
 You can learn git using any of these resources.
 * [Git – no deep shit guide](http://rogerdudler.github.io/git-guide/)
 * [Interactive Git tutorial - GitHub](https://try.github.io/levels/1/challenges/1)
@@ -47,10 +38,12 @@ You can learn git using any of these resources.
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
 
 
-### assignment: 
+##### assignment: 
 * Build an account on GitHub, if you don't have one
 
-## `Build` your one-page personal website 
+## Project: Build and launch your personal for free
+
+### Learn HTML/CSS
 >🎁 Level: Beginner
 
 >📁 Pre-requisite: *Git*
@@ -59,7 +52,7 @@ You can learn git using any of these resources.
 
 
 
-### Steps:
+##### Steps:
 
 1. Learn HTML/CSS 
     1. Go to [Free Code Camp](https://www.freecodecamp.org/map#collapseFront-End-Development-Certification) and take these courses:
@@ -76,7 +69,7 @@ You can learn git using any of these resources.
     - don't forget to commit your code to Github on every major change. Here are [Git best practices, if you're interested](https://sethrobertson.github.io/GitBestPractices/)
 
 
-## `Deploy` your website to Netlify 
+### `Deploy` your website to Netlify 
 
 >🎁 Level: Beginner - intermediate (this section requires you to be good at following official documentations for some configuration and potentially troubleshooting the domain propagation or deploy. You'll know more about these later on, in this article)
 
@@ -91,7 +84,7 @@ Netlify is a platform that allows you to deploy your code directly and `continuo
 
 Now that your website is live and can be viewed by people on some-random-name.netlify.com, let's try to get you a free domain and link your website to it.
 
-## Get a free `domain` and more with GitHub Education Pack
+### Get a free `domain` and more with GitHub Education Pack
 
 >💰 This is one of the best online deals we computer science/IT students can get, using our university emails. 
 
@@ -102,7 +95,7 @@ Get it now: [Github education pack](https://education.github.com/pack). If you n
 
 Once you claim your GH education pack, redeem the *Namecheap* free domain offer for free and proceed to the next section.
 
-## Add your custom domain to your netlify project 
+### Add your custom domain to your netlify project 
 
 >🎁 Level: intermediate. In this section you'll be configuring your newly purchased domain to point to netlify. This step may not be very intuitive at first, feel free to ask for help in App Club community.
 
