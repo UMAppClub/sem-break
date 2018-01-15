@@ -16,6 +16,7 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
     - [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
 - [More projects soon](#)
 
+
 **Text Editor**
 
 GUI-based:
@@ -29,7 +30,6 @@ Console-based:
 2. Emacs
 3. Nano
 
->Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
 
 ### Learn `Command Line`
 >🎁 Level: Beginner
