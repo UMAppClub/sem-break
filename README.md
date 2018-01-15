@@ -1,4 +1,4 @@
-# Productive Semester Break :D
+# Self-paced no-judgment learning for a productive semester break :D
 List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
 
 
