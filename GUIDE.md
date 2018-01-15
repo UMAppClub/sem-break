@@ -1,9 +1,8 @@
 # Self-paced no-judgment learning for a productive semester break :D
 
->####### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
+> ##### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
 
 List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
-
 
 
 >Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
@@ -43,7 +42,7 @@ You can learn git using any of these resources.
 
 ## Project: Build and launch your personal for free
 
-### Learn HTML/CSS
+### Build a one-page website using HTML/CSS
 >🎁 Level: Beginner
 
 >📁 Pre-requisite: *Git*
