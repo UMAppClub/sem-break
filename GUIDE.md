@@ -9,11 +9,11 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
 
 
 - [Learn Command Line](#learn-command-line)
-- [Learn Git](#Learn-Git)
-- [Build your one-page personal website](#Build-your-one-page personal-website)
+- [Learn Git](#learn-git)
+- [Build your one-page personal website](#build-your-one-page-personal-website)
 - [Deploy your website to Netlify](#)
-- [Get a free domain and more with GitHub Education Pack](#)
-- [Add your custom domain to your netlify project](#)
+- [Get a free domain and more with GitHub Education Pack](#Get-a-free-domain-and-more-with-gitHub-education-pack)
+- [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
 
 
 >Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
