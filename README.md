@@ -16,7 +16,7 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
     - [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
 - [More projects soon](#)
 
->Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
+>Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/)
 
 
 ### Learn `Command Line`
