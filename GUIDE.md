@@ -4,6 +4,18 @@
 
 List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
 
+
+**Table of Contents** 
+
+
+- [0️⃣ Learn Command Line](#Learn-Command-Line)
+- [1️⃣ Learn Git](#Learn-Git)
+- [2️⃣ Build your one-page personal website](#)
+- [3️⃣ Deploy your website to Netlify](#)
+- [4️⃣  Get a free domain and more with GitHub Education Pack](#)
+- [5️⃣ Add your custom domain to your netlify project](#)
+
+
 >Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
 
 ## 0️⃣ Learn Command Line
