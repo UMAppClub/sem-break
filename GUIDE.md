@@ -1,9 +1,19 @@
-# Self-paced no-judgment learning for a productive semester break :D
+# App Club self-paced no-judgment learning for a productive semester break :D
 
 > ##### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
 
 List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
 
+**Table of Contents**  
+
+
+- [Learn Command Line](#learn-command-line)
+- [Learn Git](#learn-git)
+- [Project: Build and launch your personal for free](project:-build-and-launch-your-personal-for-free)
+    - [Build a one-page website using HTML/CSS](build-a-one-page-website-using-html/css)
+    - [Deploy your website to Netlify](#deploy-your-website-to-netlify)
+    - [Get a free domain and more with GitHub Education Pack](#get-a-free-domain-and-more-with-github-education-pack)
+    - [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
 
 >Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
 
