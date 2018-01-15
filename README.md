@@ -16,12 +16,18 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
     - [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
 - [More projects soon](#)
 
-Recommended text editor:
+**Text Editor**
+
+GUI-based:
+1. VS Code 💖
+2. Atom
+3. Sublime Text
+4. Webstorm (More of an IDE then text editor)
+
+Console-based:
 1. VIM 😎 (Only for those who want to reach Super Saiyan Level)
-2. VS Code 💖
-3. Atom
-4. Sublime Text
-5. Webstorm (IDE)
+2. Emacs
+3. Nano
 
 >Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/), it's light and beautiful.
 
