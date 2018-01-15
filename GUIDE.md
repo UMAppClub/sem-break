@@ -8,7 +8,7 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
 **Table of Contents** 
 
 
-- [0️⃣ Learn Command Line](#Learn-Command-Line)
+- [0️⃣ Learn Command Line](#learn-command-line)
 - [1️⃣ Learn Git](#Learn-Git)
 - [2️⃣ Build your one-page personal website](#)
 - [3️⃣ Deploy your website to Netlify](#)
