@@ -2,8 +2,6 @@
 
 > ##### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
 
-> This is **NOT** a machine-specific tutorial. You can be using Windows, Mac or Linux. 
-
 List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
 
 **Table of Contents**  
@@ -18,7 +16,19 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
     - [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
 - [More projects soon](#)
 
->Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/)
+
+**Text Editor**
+
+GUI-based:
+1. VS Code 💖
+2. Atom
+3. Sublime Text
+4. Webstorm (More of an IDE then text editor)
+
+Console-based:
+1. VIM 😎 (Only for those who want to reach Super Saiyan Level)
+2. Emacs
+3. Nano
 
 
 ### Learn `Command Line`
