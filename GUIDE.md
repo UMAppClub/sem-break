@@ -1,4 +1,4 @@
-# Self-paced no-judgment learning for a productive semester break :D
+# Build and launch your personal website for free
 
 > ##### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
 
@@ -14,7 +14,7 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
     - [Deploy your website to Netlify](#deploy-your-website-to-netlify)
     - [Get a free domain and more with GitHub Education Pack](#get-a-free-domain-and-more-with-github-education-pack)
     - [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
-- [More projects soon](#)
+
 
 
 **Text Editor**
@@ -127,4 +127,3 @@ Follow the [step-by-step documentations](https://www.netlify.com/docs/custom-dom
 >If you have any questions, raise an issue. ([How?](https://help.github.com/articles/creating-an-issue/))
 
 
-## More projects soon
