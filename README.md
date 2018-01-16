@@ -7,8 +7,14 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
 **Table of Contents**  
 
 
-- [Learn Command Line](GUIDE.md#learn-command-line)
-- [Learn Git](GUIDE.md#learn-git)
-- [Project: Build and launch your personal website for free](GUIDE.md)
-- [More projects soon](#)
+- [Learn Command Line](GUIDE.md#learn-command-line) (beginner)
+- [Learn Git](GUIDE.md#learn-git) (beginner)
+- [**Project 1:** Build and launch your personal website for free](GUIDE.md) (beginner)
+- *SOON* [Learn JavaScript](#)
+- *SOON* [**Project 2**](#)
+– *SOON* [Resources for learning CSS](#)
+- *SOON* [Learn User Experience Design](#)
+- *SOON* [**Project 3**](#)
+- *SOON* [Learn NodeJs](#)
+
 
