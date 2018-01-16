@@ -11,7 +11,7 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
 - [Learn Git](GUIDE.md#learn-git) (beginner)
 - [**Project 1:** Build and launch your personal website for free](GUIDE.md) (beginner)
 - *SOON* [Learn JavaScript](#)
-– *SOON* [Resources for learning CSS](#)
+- *SOON* [Resources for learning CSS](#)
 - *SOON* [ **Project 2** ](#)
 - *SOON* [Learn User Experience Design](#)
 - *SOON* [**Project 3**](#)
