@@ -9,6 +9,6 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
 
 - [Learn Command Line](GUIDE.md#learn-command-line)
 - [Learn Git](GUIDE.md#learn-git)
-- [Project: Build and launch your personal website for free](#GUIDE.md)
+- [Project: Build and launch your personal website for free](GUIDE.md)
 - [More projects soon](#)
 
