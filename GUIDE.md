@@ -2,7 +2,7 @@
 
 > ##### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
 
-List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
+This is a beginner level tutorial that'll help you get familiar with a number of important fundamentals in computer science as well as web development. 
 
 **Table of Contents**  
 
