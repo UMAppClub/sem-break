@@ -59,9 +59,19 @@ You can learn git using any of these resources.
 * [Git tutorial on Free Code Camp](https://www.freecodecamp.org/challenges/save-your-code-revisions-forever-with-git)
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
 
-
 ##### assignment: 
 * Build an account on GitHub, if you don't have one
+
+### Understanding `REST`
+>🎁 Level: Amateur
+
+>📁 Pre-requisite: *None*, however basic Python understanding recommended
+
+#### Resources
+* [Beginner's Guide] (http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api/)
+* [HTTP Basics] (https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+* [Flask] (http://flask.pocoo.org/docs/0.12/deploying/)
+* [Simple Flask Walkthrough] (https://medium.com/python-pandemonium/build-simple-restful-api-with-python-and-flask-part-1-fae9ff66a706)
 
 ## Project: Build and launch your personal website for free
 
