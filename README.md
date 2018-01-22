@@ -4,7 +4,13 @@
 
 List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
 
-**Table of Contents**  
+[How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+
+**Artificial Intelligence**  
+- [Deep Learning learning roadmap](https://metacademy.org/graphs/concepts/restricted_boltzmann_machines#focus=i9mo2e09&mode=learn) 
+- 
+
+**Web Development**  
 
 
 - [Learn Command Line](GUIDE.md#learn-command-line) (beginner)
